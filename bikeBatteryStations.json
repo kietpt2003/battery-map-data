@@ -1,0 +1,202 @@
+[
+  {
+    "stationName": "TĐP trạm Trạm dừng xe buýt, trước số nhà 660 Điện Biên Phủ",
+    "stationAddress": "TĐP trạm Trạm dừng xe buýt, trước số nhà 660 Điện Biên Phủ",
+    "locationId": "B.HCM11796",
+    "evse": "VinFast",
+    "latitude": 10.799503,
+    "longitude": 106.717417,
+    "depotStatus": "Planned",
+    "isPublic": true
+  },
+  {
+    "stationName": "TĐP HKD Trần Hồng Vân, 03 chung cư 4A/4 đường D1, phường 25 Quận Bình Thạnh",
+    "stationAddress": "03 chung cư 4A/4 đường D1, phường 25 Quận Bình Thạnh",
+    "locationId": "B.HCM14130",
+    "evse": "VinFast",
+    "latitude": 10.80159,
+    "longitude": 106.719332,
+    "depotStatus": "Planned",
+    "isPublic": true
+  },
+  {
+    "stationName": "TĐP Vỉa hè hẻm 135 Nguyễn Hữu Cảnh, Phường Thạnh Mỹ Tây, Hồ Chí Minh",
+    "stationAddress": "Vỉa hè đường hẻm 135 Nguyễn Hữu Cảnh, đối diện số nhà 135/35, Phường Thạnh Mỹ Tây",
+    "locationId": "B.HCM12719",
+    "evse": "VinFast",
+    "latitude": 10.797164,
+    "longitude": 106.717976,
+    "depotStatus": "Planned",
+    "isPublic": true
+  },
+  {
+    "stationName": "TĐP trạm Trước cây xăng Comeco, đường Điện Biên Phủ",
+    "stationAddress": "TĐP trạm Trước cây xăng Comeco, đường Điện Biên Phủ",
+    "locationId": "B.HCM11797",
+    "evse": "VinFast",
+    "latitude": 10.801108,
+    "longitude": 106.713276,
+    "depotStatus": "Planned",
+    "isPublic": true
+  },
+  {
+    "stationName": "TĐP Số 208 Nguyễn Hữu Cảnh",
+    "stationAddress": "Số 208 Nguyễn Hữu Cảnh (Vinhomes Central Park), Phường Thạnh Mỹ Tây, HCM",
+    "locationId": "B.HCM13661",
+    "evse": "VinFast",
+    "latitude": 10.795806,
+    "longitude": 106.718889,
+    "depotStatus": "Planned",
+    "isPublic": true
+  },
+  {
+    "stationName": "TĐP Công Ty TNHH MTV Khai Thác Thủy Lợi Miền Nam, Thạnh Mỹ Tây, Hồ Chí Minh",
+    "stationAddress": "Vỉa hè trước số nhà 178 Nguyễn Văn Thương (Công Ty TNHH MTV Khai Thác Thủy Lợi Miền Nam), Phường Thạnh Mỹ Tây",
+    "locationId": "B.HCM12720",
+    "evse": "VinFast",
+    "latitude": 10.803327,
+    "longitude": 106.721185,
+    "depotStatus": "Planned",
+    "isPublic": true
+  },
+  {
+    "stationName": "TĐP Số 178 Nguyễn Văn Thương",
+    "stationAddress": "Số 178 Nguyễn Văn Thương, Phường Thạnh Mỹ Tây, HCM",
+    "locationId": "B.HCM13687",
+    "evse": "VinFast",
+    "latitude": 10.803472,
+    "longitude": 106.721139,
+    "depotStatus": "Planned",
+    "isPublic": true
+  },
+  {
+    "stationName": "Bãi đỗ xe Tân Cảng, 208 Nguyễn Hữu Cảnh, Bình Thạnh, Hồ Chí Minh",
+    "stationAddress": "Bãi đỗ xe GSM - Central Park P1",
+    "locationId": "B.HCM00267",
+    "evse": "VinFast",
+    "latitude": 10.79693,
+    "longitude": 106.721497,
+    "depotStatus": "Available",
+    "isPublic": true
+  },
+  {
+    "stationName": "TĐP Số 105 Nguyễn Hữu Cảnh",
+    "stationAddress": "Số 105 Nguyễn Hữu Cảnh, Phường Thạnh Mỹ Tây, HCM",
+    "locationId": "B.HCM13657",
+    "evse": "VinFast",
+    "latitude": 10.7945,
+    "longitude": 106.718028,
+    "depotStatus": "Planned",
+    "isPublic": true
+  },
+  {
+    "stationName": "1063 UNG VĂN KHIÊM  - SATRAFOODS",
+    "stationAddress": "184 Ung Văn Khiêm, phường 25, quận Bình Thạnh, TP. HCM",
+    "locationId": "B.HCM11636",
+    "evse": "VinFast",
+    "latitude": 10.806221,
+    "longitude": 106.72018,
+    "depotStatus": "Planned",
+    "isPublic": true
+  },
+  {
+    "stationName": "TĐP Kế 153 Xô Viết Nghệ Tĩnh, 153 Đ Xô Viết Nghệ Tĩnh",
+    "stationAddress": "Kế số nhà 153 đường Xô Viết Nghệ Tĩnh",
+    "locationId": "B.HCM14583",
+    "evse": "VinFast",
+    "latitude": 10.797862,
+    "longitude": 106.710821,
+    "depotStatus": "Planned",
+    "isPublic": true
+  },
+  {
+    "stationName": "TĐP Vỉa hè Trung Tâm Bảo Trợ Trẻ Tàn Tật Mồ Côi Thị Nghè,",
+    "stationAddress": "Vỉa hè bên phải Trung Tâm Bảo Trợ Trẻ Tàn Tật Mồ Côi Thị Nghè, đường Xô Viết Nghệ Tĩnh,",
+    "locationId": "B.HCM12718",
+    "evse": "VinFast",
+    "latitude": 10.79782,
+    "longitude": 106.710807,
+    "depotStatus": "Planned",
+    "isPublic": true
+  },
+  {
+    "stationName": "TĐP trạm cạnh cột chiếu sáng trước số nhà 474 Điện Biên Phủ",
+    "stationAddress": "TĐP trạm cạnh cột chiếu sáng trước số nhà 474 Điện Biên Phủ",
+    "locationId": "B.HCM11795",
+    "evse": "VinFast",
+    "latitude": 10.801009,
+    "longitude": 106.710291,
+    "depotStatus": "Planned",
+    "isPublic": true
+  },
+  {
+    "stationName": "TĐP Số 148B đường Ung Văn Kiêm",
+    "stationAddress": "Số 148B đường Ung Văn Kiêm, Phường Thạnh Mỹ Tây, HCM",
+    "locationId": "B.HCM13738",
+    "evse": "VinFast",
+    "latitude": 10.806917,
+    "longitude": 106.719083,
+    "depotStatus": "Planned",
+    "isPublic": true
+  },
+  {
+    "stationName": "Bãi đỗ xe Vinmec Central Park - Trong hầm",
+    "stationAddress": "Tầng B3, Vinmec Central Park số 208, đường Nguyễn Hữu Cảnh, phường 22",
+    "locationId": "B.HCM00048",
+    "evse": "VinFast",
+    "latitude": 10.793915,
+    "longitude": 106.720329,
+    "depotStatus": "Planned",
+    "isPublic": true
+  },
+  {
+    "stationName": "Vinhomes Landmark 81 - Hầm",
+    "stationAddress": "Hầm, Vinhomes Landmark 81, số 208, đường Nguyễn Hữu Cảnh, phường 22",
+    "locationId": "B.HCM00031",
+    "evse": "VinFast",
+    "latitude": 10.794848,
+    "longitude": 106.722038,
+    "depotStatus": "Planned",
+    "isPublic": true
+  },
+  {
+    "stationName": "Vincom Center Landmark 81 - Sảnh chính",
+    "stationAddress": "Vinhomes Tân Cảng,P.Thạnh Mỹ Tây,TpHCM",
+    "locationId": "B.HCM00134",
+    "evse": "VinFast",
+    "latitude": 10.79518,
+    "longitude": 106.722412,
+    "depotStatus": "Available",
+    "isPublic": true
+  },
+  {
+    "stationName": "TĐP Đối diện 24 đường D5, Đối diện số 24 Đ D5",
+    "stationAddress": "Đối diện số 24 đường D5",
+    "locationId": "B.HCM14580",
+    "evse": "VinFast",
+    "latitude": 10.806611,
+    "longitude": 106.713167,
+    "depotStatus": "Planned",
+    "isPublic": true
+  },
+  {
+    "stationName": "Vinhomes Central Park 6(cột D5-D8)",
+    "stationAddress": "Vinhomes Central Park 6, số 208, đường Nguyễn Hữu Cảnh, phường 22",
+    "locationId": "B.HCM00028",
+    "evse": "VinFast",
+    "latitude": 10.793196,
+    "longitude": 106.721397,
+    "depotStatus": "Planned",
+    "isPublic": true
+  },
+  {
+    "stationName": "Vinhomes Central Park 5 ( cột B4-B6)",
+    "stationAddress": "Vinhomes Central Park 5, số 208, đường Nguyễn Hữu Cảnh, phường 22",
+    "locationId": "B.HCM00027",
+    "evse": "VinFast",
+    "latitude": 10.793406,
+    "longitude": 106.722168,
+    "depotStatus": "Planned",
+    "isPublic": true
+  }
+]
